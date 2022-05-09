@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning Informatics Engineering
 - 💞️ I’m looking to collaborate on projects
 - 📱 Discord ID: Jaimemg#6882
+- 📲 Discord Server: discord.gg/XQXC3A6g
 - 📫 How to reach me alu0101476124@ull.edu.es or jaimemg395@gmail.com
