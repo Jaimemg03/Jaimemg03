@@ -7,7 +7,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Informatics Engineering
 - 💞️ I’m looking to collaborate on projects
-- lo que viene siendo que quiero robartelo 
   
 (¯`·.¸¸.·´¯`·.¸¸.-> Contact me at <-.¸¸.·´¯`·.¸¸.·´¯)
 
