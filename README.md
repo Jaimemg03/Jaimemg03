@@ -15,6 +15,5 @@
 - 📫 Email: alu0101476124@ull.edu.es or jaimemg395@gmail.com
 - 📝 Telegram: @jaimemg03
 
-(¯`·.¸¸.·´¯`·.¸¸.-> programming languages <-.¸¸.·´¯`·.¸¸.·´¯)
-
-Vim Linux Bash git C++ R GitHub Actions ASM(MIPS) Verilog
+(¯`·.¸¸.·´¯`·.¸¸.-> current knowledge <-.¸¸.·´¯`·.¸¸.·´¯)
+![fposter,small,wall_texture,product,750x1000 u4](https://user-images.githubusercontent.com/91601610/235319823-64d29a8c-8352-47d9-930e-e7d8a34bbf30.jpg)
