@@ -14,3 +14,7 @@
 - 📲 Discord Server: Developing
 - 📫 Email: alu0101476124@ull.edu.es or jaimemg395@gmail.com
 - 📝 Telegram: @jaimemg03
+
+(¯`·.¸¸.·´¯`·.¸¸.-> programming languages <-.¸¸.·´¯`·.¸¸.·´¯)
+
+Vim Linux Bash git C++ R GitHub Actions ASM(MIPS) Verilog
