@@ -4,7 +4,6 @@
 
 - 🌴 I’m from Canary Island, Spain 
 - 👨‍💻 I’m studing at ULL University
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning Informatics Engineering
   
 (¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)
