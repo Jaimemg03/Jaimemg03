@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaime Martín</h1>
 
-<h3 align="center">(¯`·.¸¸.·´¯`·.¸¸.-> About me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
+<h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> About me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
 - 🌴 I’m from Canary Island, Spain 
 - 👨‍💻 I’m studing at ULL University
 - 🌱 I’m currently learning Informatics Engineering
   
-<h3 align="center">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
+<h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
 - 📱 Discord ID: Jaimemg#6882
 - 📲 Discord Server: Developing...
