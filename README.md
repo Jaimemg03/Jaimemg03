@@ -5,6 +5,9 @@
 - 🌴 I’m from Canary Island, Spain 
 - 👨‍💻 I’m studing at ULL University
 - 🌱 I’m currently learning Informatics Engineering
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimemg03" alt="jaimemg03" /></a> </p>
+
   
 <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
