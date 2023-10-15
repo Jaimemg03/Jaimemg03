@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaime Martín</h1>
+<h1 align="center">Hi 👋, I'm Jaime. Welcome to my work area </h1>
 
 <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> About me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
@@ -8,9 +8,9 @@
   
 <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-- 📱 Discord ID: Jaimemg#6882
+- 📱 Discord Name: jaimemg_
 - 📲 Discord Server: Developing...
-- 📫 Email: alu0101476124@ull.edu.es or jaimemg395@gmail.com
+- 📫 Email: alu0101476124@ull.edu.es
 - 📝 Telegram: @jaimemg03
 
 <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Languages and Tools  <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
