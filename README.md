@@ -22,8 +22,6 @@
 <a href="http://digital.unex.es/wiki/doku.php?id=pub:vlog" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" alt="verilog" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-
-  
 <a href="https://es.wikipedia.org/wiki/AutoCAD" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autocad-logo-69326D7728-seeklogo.com.png" alt="blender" width="40" height="40"/> </a>
 <a href="https://es.wikipedia.org/wiki/Blender" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/Microsoft_Windows" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/IOS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_Apple.inc.gif" alt="IOS" width="40" height="40"/> </a>
