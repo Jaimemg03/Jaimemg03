@@ -5,6 +5,7 @@
 - 🌴 I’m from Canary Island, Spain 
 - 👨‍💻 I’m studing at ULL University
 - 🌱 I’m currently learning Informatics Engineering
+- 🧩 This year I'm programming in: C++, Ruby, SQL and Python.
   
 <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
