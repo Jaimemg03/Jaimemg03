@@ -9,7 +9,7 @@
   
 ## <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Contact me <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][discord]
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
@@ -35,7 +35,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03&" alt="jaimemg03" /></p>
 
-[discord]:
-[instagram]: 
+[discord]: 
+[instagram]: https://www.instagram.com/jaimemglez/
 [gmail]: alu0101476124@ull.edu.es
 [telegram]:
