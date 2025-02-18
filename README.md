@@ -67,6 +67,11 @@ I am looking for opportunities where I can contribute my skills, grow profession
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> </a> 
 <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/374005/prolog.svg" alt="prolog" width="40" height="40"/> </a> 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemg03&langs_count=10&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Most used languages" />
+</p>
+
+
 ## <a name="tools"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Tools <-.¸¸.·¯`·.¸¸.·´¯)</h3>
   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -154,6 +159,10 @@ Estoy buscando oportunidades donde pueda contribuir con mis habilidades, crecer 
 <a href="https://en.wikipedia.org/wiki/SQL/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> </a>
 <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/374005/prolog.svg" alt="prolog" width="40" height="40"/> </a> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimemg03&langs_count=10&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Most used languages" />
+</p>
 
 ## <a name="tools2"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Herramientas <-.¸¸.·¯`·.¸¸.·´¯)</h3>
 
