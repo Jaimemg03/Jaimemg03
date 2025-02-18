@@ -65,6 +65,7 @@ I am looking for opportunities where I can contribute my skills, grow profession
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/SQL/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> </a> 
+<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/374005/prolog.svg" alt="prolog" width="40" height="40"/> </a> 
 
 ## <a name="tools"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Tools <-.¸¸.·¯`·.¸¸.·´¯)</h3>
   
@@ -73,6 +74,7 @@ I am looking for opportunities where I can contribute my skills, grow profession
 <a href="https://es.wikipedia.org/wiki/Blender" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="http://digital.unex.es/wiki/doku.php?id=pub:vlog" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="verilog" width="40" height="40"/> </a>
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1024px-Diagrams.net_Logo.svg.png" alt="verilog" width="40" height="40"/> </a>
 
 ## <a name="os"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> OS used <-.¸¸.·¯`·.¸¸.·´¯)</h3>
 
@@ -150,7 +152,8 @@ Estoy buscando oportunidades donde pueda contribuir con mis habilidades, crecer 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/SQL/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="40" height="40"/> </a>
+<a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/374005/prolog.svg" alt="prolog" width="40" height="40"/> </a> 
 
 ## <a name="tools2"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Herramientas <-.¸¸.·¯`·.¸¸.·´¯)</h3>
 
@@ -159,6 +162,7 @@ Estoy buscando oportunidades donde pueda contribuir con mis habilidades, crecer 
 <a href="https://es.wikipedia.org/wiki/Blender" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="http://digital.unex.es/wiki/doku.php?id=pub:vlog" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="verilog" width="40" height="40"/> </a>
+<a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1024px-Diagrams.net_Logo.svg.png" alt="verilog" width="40" height="40"/> </a>
 
 ## <a name="os2"></a> <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Sistemas Operativos <-.¸¸.·¯`·.¸¸.·´¯)</h3>
 
