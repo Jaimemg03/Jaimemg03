@@ -14,6 +14,7 @@
 # <a name="english"></a> <h1 align="center">Hi  <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>, I'm Jaime. Welcome to my Github perfil </h1>
 
 ## <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Index <-.¸¸.·¯`·.¸¸.·´¯)</h3>
+
 - [About me](#about)
 - [Description](#description)
 - [Contact me](#contact)
@@ -84,7 +85,7 @@ I am looking for opportunities where I can contribute my skills, grow profession
 
 ## <a name="stats"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Stats <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03&" alt="jaimemg03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03" alt="jaimemg03" /></p>
 
 ---
 
@@ -99,6 +100,7 @@ I am looking for opportunities where I can contribute my skills, grow profession
 # <a name="español"></a> <h1 align="center">Hola  <img src="https://i.imgur.com/csn2hC2.gif" width=25px style="display: inline-block"></img>, soy Jaime. Bienvenido a mi perfil de Github </h1>
 
 ## <h3 align="left">(¯·.¸¸.·´¯·.¸¸.-> Índice <-.¸¸.·¯`·.¸¸.·´¯)</h3>
+
 - [Sobre mí](#about2)
 - [Descripción](#description2)
 - [Contáctame](#contact2)
@@ -169,6 +171,6 @@ Estoy buscando oportunidades donde pueda contribuir con mis habilidades, crecer 
 
 ## <a name="stats2"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Estadísticas <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03&" alt="jaimemg03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03" alt="jaimemg03" /></p>
 
 
