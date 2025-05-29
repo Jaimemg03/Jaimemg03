@@ -1,4 +1,4 @@
-# <h1 align="center">(¯·.¸¸.·´¯·.¸¸.-> Seleccione Idioma / Select Languaje <-.¸¸.·¯`·.¸¸.·´¯)</h3>
+# <h1 align="center">(·.¸¸.·´¯·.¸¸.-> Seleccione Idioma / Select Languaje <-.¸¸.·¯`·.¸¸.·)</h3>
 
 <p align="center">
   <a href="#español">
