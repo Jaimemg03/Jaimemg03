@@ -1,12 +1,9 @@
 # <h1 align="center">(·.¸¸.·´¯·.¸¸.-> Seleccione Idioma / Select Languaje <-.¸¸.·¯`·.¸¸.·)</h3>
-
-<p align="center">
-  <a href="#español">
-    <img src="https://img.shields.io/badge/🇪🇸%20Español-red?style=for-the-badge" alt="Español"/>
+<div align="left">
+  <a href="README_en.md">
+    <img src="https://media.istockphoto.com/id/1251660737/es/vector/bandera-del-reino-unido-ondeando-realista-union-jack.jpg?s=612x612&w=0&k=20&c=c8pRC34G_HobVR1EJSTVY1a9D35GDGNqf15aJ97xHo4=" alt="English" width="250" height="180">
   </a>
-  <a href="#english">
-    <img src="https://img.shields.io/badge/🇬🇧%20English-blue?style=for-the-badge" alt="English"/>
+  <a href="README_es.md">
+    <img src="https://img.freepik.com/fotos-premium/bandera-espana-ilustracion-3d-bandera-espanola-ondeando_2227-2339.jpg" alt="Español" width="250" height="180">
   </a>
-</p>
-
----
+</div>
