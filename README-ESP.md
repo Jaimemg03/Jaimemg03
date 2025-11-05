@@ -78,7 +78,7 @@ Estoy buscando oportunidades donde pueda contribuir con mis habilidades, crecer 
 
 ## <a name="stats2"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Estadísticas <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03" alt="jaimemg03" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaimemg03)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
