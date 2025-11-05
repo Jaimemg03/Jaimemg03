@@ -75,7 +75,7 @@ I am looking for opportunities where I can contribute my skills, grow profession
   
 ## <a name="trophy"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Trophy <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimemg03" alt="jaimemg03" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaimemg03&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <a name="stats"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Stats <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
