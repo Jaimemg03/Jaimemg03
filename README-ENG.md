@@ -75,11 +75,11 @@ I am looking for opportunities where I can contribute my skills, grow profession
   
 ## <a name="trophy"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Trophy <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaimemg03&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaimemg03)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <a name="stats"></a> <h3 align="left">(¯`·.¸¸.·´¯`·.¸¸.-> Stats <-.¸¸.·´¯`·.¸¸.·´¯)</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimemg03" alt="jaimemg03" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaimemg03)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
