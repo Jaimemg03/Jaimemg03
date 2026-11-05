@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Computer%20Engineer%20%C2%B7%20SAP%20Developer%20%C2%B7%20Double%20Master%27s%20at%20ULL&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Computer Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Computer%20Engineer%20%C2%B7%20Double%20Master%27s%20at%20ULL%20%C2%B7%20Software%20%26%20AI&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Computer Engineer" />
 
 <a href="https://jaimemartglez.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Engineer+from+the+University+of+La+Laguna;SAP+Application+Developer+at+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+LLM+Integration;Available+immediately+%C2%B7+Open+to+new+challenges" alt="Computer Engineer · SAP Developer · Flutter, Python, .NET and LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Engineer+from+the+University+of+La+Laguna;SAP+Developer+Intern+at+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+LLM+Integration;Available+immediately+%C2%B7+Open+to+new+challenges" alt="Computer Engineer · SAP Intern · Flutter, Python, .NET and LLMs" />
 </a>
 
 <p>
@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <p>I'm a <b>Computer Engineer</b> from the University of La Laguna, currently pursuing a <b>Double Master's in Computer Engineering and Cybersecurity &amp; Data Intelligence</b>. I work as an <b>SAP Application Developer</b> at Disa Holding Energético, where I build features, troubleshoot issues and support changes all the way to production.</p>
+      <p>I'm a <b>Computer Engineer</b> from the University of La Laguna, currently pursuing a <b>Double Master's in Computer Engineering and Cybersecurity &amp; Data Intelligence</b>. I completed a curricular internship as an <b>SAP Application Developer</b> at Disa Holding Energético, where I built features, resolved incidents and supported changes all the way to production.</p>
       <p>I work comfortably across <b>backend development</b>, <b>mobile development</b> and <b>large language model integration</b>. I enjoy turning complex problems into clean, measurable and maintainable solutions.</p>
       <ul>
         <li>🔭 Building <b>CALIO</b>, an appointment management platform for small businesses.</li>
@@ -61,16 +61,17 @@
 
 ## 💼 Experience
 
-### SAP Application Developer
+### SAP Application Developer · Curricular Internship
 
-**Disa Holding Energético, SLU** · Santa Cruz de Tenerife
+**Disa Holding Energético, SLU** · Santa Cruz de Tenerife  
+**Curricular internship · Completed**
 
-- Building programs and features that support business processes and end users.
-- Analysing and resolving technical and functional incidents in SAP applications.
-- Testing developments before deployment to quality and production environments.
-- Managing and transporting changes to production following established procedures.
-- Collaborating with users and functional teams to identify needs and improve processes.
-- Supporting go-live and post-deployment monitoring in production.
+- Built programs and features that support business processes and end users.
+- Analysed and resolved technical and functional incidents in SAP applications.
+- Tested developments before deployment to quality and production environments.
+- Managed and transported changes to production following established procedures.
+- Collaborated with users and functional teams to identify needs and improve processes.
+- Supported go-live and post-deployment monitoring in production.
 
 <p>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
@@ -91,23 +92,20 @@
       <p>An assistant for older adults that interprets the DOM with <b>local LLMs</b> and provides guided navigation. Includes automated evaluation, error detection and monitoring.</p>
       <p><code>Python</code> <code>LLMs</code> <code>Gemini</code> <code>Llama</code> <code>Playwright</code></p>
       <p><b>Final Degree Project · 2026 · 9.7/10</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">View project →</a></p>
+      <p><a href="https://github.com/PITE-TFGAS/Jaime-TFG">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📅 CALIO · Appointments &amp; staff management</h3>
       <p>A platform for small businesses with scheduling, clients, services and a dashboard. Multi-tenant architecture with RLS, reactive state and external API integrations.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Riverpod</code></p>
-      <p><b>Personal project · In development</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">View project →</a></p>
+      <p><b>Personal project · Coming soon</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 Signal Filter for LinkedIn</h3>
-      <p>A Chrome extension and scoring API that filters LinkedIn noise and ranks posts by originality, experience and usefulness.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Fastify</code> <code>Node.js</code> <code>Manifest V3</code></p>
-      <p><b>Personal project</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">View project →</a></p>
+      <h3>🧩 Coming soon · New project</h3>
+      <p>I'm working on something new. I'll publish it here and on my portfolio as soon as it's ready.</p>
+      <p><a href="https://jaimemartglez.vercel.app/#projects">Meanwhile, explore my portfolio →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ Personal portfolio</h3>

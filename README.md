@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Desarrollador%20SAP%20%C2%B7%20Doble%20M%C3%A1ster%20ULL&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Ingeniero Informático" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Doble%20M%C3%A1ster%20ULL%20%C2%B7%20Desarrollo%20e%20IA&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Ingeniero Informático" />
 
 <a href="https://jaimemartglez.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+La+Laguna;Desarrollador+de+Aplicaciones+SAP+en+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+Integraci%C3%B3n+de+LLMs;Disponibilidad+inmediata+%C2%B7+Abierto+a+nuevos+retos" alt="Ingeniero Informático · Desarrollador SAP · Flutter, Python, .NET y LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+La+Laguna;Pr%C3%A1cticas+curriculares+como+Desarrollador+SAP+en+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+Integraci%C3%B3n+de+LLMs;Disponibilidad+inmediata+%C2%B7+Abierto+a+nuevos+retos" alt="Ingeniero Informático · Prácticas SAP · Flutter, Python, .NET y LLMs" />
 </a>
 
 <p>
@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <p>Soy <b>Ingeniero Informático</b> por la Universidad de La Laguna y actualmente curso el <b>Doble Máster en Ingeniería Informática y Ciberseguridad e Inteligencia de Datos</b>. Trabajo como <b>Desarrollador de Aplicaciones SAP</b> en Disa Holding Energético, donde desarrollo funcionalidades, resuelvo incidencias y acompaño los cambios hasta producción.</p>
+      <p>Soy <b>Ingeniero Informático</b> por la Universidad de La Laguna y actualmente curso el <b>Doble Máster en Ingeniería Informática y Ciberseguridad e Inteligencia de Datos</b>. He realizado prácticas curriculares como <b>Desarrollador de Aplicaciones SAP</b> en Disa Holding Energético, donde desarrollé funcionalidades, resolví incidencias y acompañé los cambios hasta producción.</p>
       <p>Me muevo con soltura entre el <b>desarrollo backend</b>, el <b>desarrollo móvil</b> y la <b>integración de modelos de lenguaje</b>. Disfruto convirtiendo problemas complejos en soluciones limpias, medibles y mantenibles.</p>
       <ul>
         <li>🔭 Construyendo <b>CALIO</b>, una plataforma de gestión de citas para pequeños negocios.</li>
@@ -61,9 +61,10 @@
 
 ## 💼 Experiencia
 
-### Desarrollador de Aplicaciones SAP
+### Desarrollador de Aplicaciones SAP · Prácticas curriculares
 
-**Disa Holding Energético, SLU** · Santa Cruz de Tenerife
+**Disa Holding Energético, SLU** · Santa Cruz de Tenerife  
+**Prácticas curriculares · Finalizado**
 
 - Desarrollo de programas y funcionalidades para dar soporte a procesos de negocio y usuarios finales.
 - Análisis y resolución de incidencias técnicas y funcionales en aplicaciones SAP.
@@ -91,23 +92,20 @@
       <p>Asistente para personas mayores que interpreta el DOM con <b>LLMs locales</b> y ofrece navegación guiada. Incluye evaluación automatizada, detección de errores y monitorización.</p>
       <p><code>Python</code> <code>LLMs</code> <code>Gemini</code> <code>Llama</code> <code>Playwright</code></p>
       <p><b>Trabajo de Fin de Grado · 2026 · 9,7/10</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">Ver proyecto →</a></p>
+      <p><a href="https://github.com/PITE-TFGAS/Jaime-TFG">Ver repositorio →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📅 CALIO · Gestión de citas y trabajadores</h3>
       <p>Plataforma para pequeños negocios con agenda, clientes, servicios y panel de control. Arquitectura multi-tenant con RLS, estado reactivo e integración de APIs externas.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Riverpod</code></p>
-      <p><b>Proyecto personal · En desarrollo</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">Ver proyecto →</a></p>
+      <p><b>Proyecto personal · Próximamente</b></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 Signal Filter for LinkedIn</h3>
-      <p>Extensión de Chrome y API de scoring que filtra el ruido de LinkedIn y prioriza publicaciones por originalidad, experiencia y utilidad.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Fastify</code> <code>Node.js</code> <code>Manifest V3</code></p>
-      <p><b>Proyecto personal</b></p>
-      <p><a href="https://jaimemartglez.vercel.app/#projects">Ver proyecto →</a></p>
+      <h3>🧩 Próximamente · Nuevo proyecto</h3>
+      <p>Estoy preparando un nuevo proyecto. Lo publicaré aquí y en mi portafolio en cuanto esté listo.</p>
+      <p><a href="https://jaimemartglez.vercel.app/#projects">Mientras tanto, ver portafolio →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ Portafolio personal</h3>
