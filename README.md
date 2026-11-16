@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1D4ED8,100:38BDF8&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Doble%20M%C3%A1ster%20ULL%20%C2%B7%20Desarrollo%20e%20IA&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Ingeniero Informático" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,50:6B6B6B,100:C0C0C0&height=210&section=header&text=Jaime%20Mart%C3%ADn%20Gonz%C3%A1lez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ingeniero%20Inform%C3%A1tico%20%C2%B7%20Doble%20M%C3%A1ster%20ULL%20%C2%B7%20Desarrollo%20e%20IA&descAlignY=54&descSize=16" width="100%" alt="Jaime Martín González — Ingeniero Informático" />
 
 <a href="https://jaimemartglez.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=900&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+La+Laguna;Pr%C3%A1cticas+curriculares+como+Desarrollador+SAP+en+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+Integraci%C3%B3n+de+LLMs;Disponibilidad+inmediata+%C2%B7+Abierto+a+nuevos+retos" alt="Ingeniero Informático · Prácticas SAP · Flutter, Python, .NET y LLMs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=FFFFFF&center=true&vCenter=true&width=900&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+La+Laguna;Pr%C3%A1cticas+curriculares+como+Desarrollador+SAP+en+DISA;Flutter+%C2%B7+Python+%C2%B7+.NET+%C2%B7+Integraci%C3%B3n+de+LLMs;Disponibilidad+inmediata+%C2%B7+Abierto+a+nuevos+retos" alt="Ingeniero Informático · Prácticas SAP · Flutter, Python, .NET y LLMs" />
 </a>
 
 <p>
@@ -246,6 +246,6 @@
   <a href="https://jaimemartglez.vercel.app/"><img src="https://img.shields.io/badge/Ver_portafolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0B1220&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2D2D,50:6B6B6B,100:C0C0C0&height=210&section=footer" width="100%" alt="Footer" />
 
 </div>
